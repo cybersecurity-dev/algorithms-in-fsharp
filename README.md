@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# [Algorithms](https://en.wikipedia.org/wiki/Algorithm) in [F#](https://github.com/cybersecurity-dev/awesome-fsharp-programming-language)
+# [Algorithms](https://wikipedia.org/wiki/Algorithm) in [F#](https://github.com/cybersecurity-dev/awesome-fsharp-programming-language)
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
@@ -21,7 +21,7 @@
 </p>
 
 ## 📖 Contents
-- [My Other Awesome Lists](#my-other-awesome-lists)
+- [My Awesome Lists](#my-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
